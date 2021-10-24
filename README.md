@@ -1,2 +1,2 @@
 # datasciencecoursera
-My project
+For Johns Hopkins Data Science Specialization
